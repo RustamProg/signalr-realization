@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationExternalAuth", "WebApplicationExternalAuth\WebApplicationExternalAuth.csproj", "{1D04F47C-02E4-41CB-994A-E04759290E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationSignalRAPI", "WebApplicationSignalRAPI\WebApplicationSignalRAPI.csproj", "{1DB80B61-923F-441D-8E96-A8D37B3C9CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D04F47C-02E4-41CB-994A-E04759290E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D04F47C-02E4-41CB-994A-E04759290E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D04F47C-02E4-41CB-994A-E04759290E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D04F47C-02E4-41CB-994A-E04759290E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB80B61-923F-441D-8E96-A8D37B3C9CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB80B61-923F-441D-8E96-A8D37B3C9CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB80B61-923F-441D-8E96-A8D37B3C9CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB80B61-923F-441D-8E96-A8D37B3C9CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
